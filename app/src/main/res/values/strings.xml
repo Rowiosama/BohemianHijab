@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BohemianHijabApp</string>
+    <string name="placeholder_search">cari hijab kesukaanmu</string>
+    <string name="genre_all">All</string>
+    <string name="section_trending">Model Terkini</string>
+    <string name="section_terbaru">Model Terbaru</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_all">Favorite Hijab</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">Back</string>
+    <string name="no_favorite_items">Kamu belum memiliki\n model hijab favorit</string>
+</resources>
